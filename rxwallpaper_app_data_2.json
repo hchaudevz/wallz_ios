@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.3",
+  "ver": "1.0.4",
   "ads": {
     "banner_disable": false,
     "inters_disable": false,
@@ -9,12 +9,12 @@
     {
       "title": "1_48e105e6e6de2acc6a849a33b3ccf0dc--dragonball-z_goku_minimal_42943238882_o_30468215838_o",
       "url": "https://live.staticflickr.com/65535/46872953855_8ca0ba445e_o.jpg",
-      "tags": "goku dragon_ball minimal"
+      "tags": "gokudragon ball_minimal"
     },
     {
       "title": "1_911344_1_42992767391_o_30468215468_o",
       "url": "https://live.staticflickr.com/65535/47000104594_8aeeaef619_o.jpg",
-      "tags": "goku_family minimal"
+      "tags": "gokufamily minimal"
     },
     {
       "title": "1_1562494_1_42992767091_o_43429667945_o",
@@ -34,7 +34,7 @@
     {
       "title": "1_black_goku_super_saiyan_rose_by_ghoulfire-dbi9kba_25756889758_o_42992766781_o_29399239357_o",
       "url": "https://live.staticflickr.com/65535/40823022183_2c1aca6811_o.jpg",
-      "tags": "ultra_goku black|goku"
+      "tags": "ultra_goku black_goku"
     },
     {
       "title": "1_black-goku-dragon-ball-super_39627471041_o_42992766521_o_44334913131_o",
@@ -254,6 +254,106 @@
     {
       "title": "cropped-1080-1920-738047_39627467181_o_29140474188_o_43700348784_o",
       "url": "https://live.staticflickr.com/65535/47789278461_f795d9a98d_o.jpg",
+      "tags": ""
+    },
+    {
+      "title": "cropped-1080-1920-749970_39627466841_o_29140474268_o_43700348604_o",
+      "url": "https://live.staticflickr.com/65535/32845786987_b81a9a835f_o.jpg",
+      "tags": ""
+    },
+    {
+      "title": "cropped-1080-1920-764183_39627466091_o_28144066007_o_43700348424_o",
+      "url": "https://live.staticflickr.com/65535/46872912515_d5feb684c1_o.jpg",
+      "tags": ""
+    },
+    {
+      "title": "cropped-1080-1920-771788_25756889488_o_28144065547_o_43700348234_o",
+      "url": "https://live.staticflickr.com/65535/32845786517_c8767976f0_o.jpg",
+      "tags": ""
+    },
+    {
+      "title": "cropped-1080-1920-772437_39627465561_o_29140472278_o_43700347964_o",
+      "url": "https://live.staticflickr.com/65535/47789278211_bbccbda5f9_o.jpg",
+      "tags": ""
+    },
+    {
+      "title": "cropped-1080-1920-772451_39627464031_o_28144064927_o_30549517508_o",
+      "url": "https://live.staticflickr.com/65535/32845785627_9dd37c007f_o.jpg",
+      "tags": "blue"
+    },
+    {
+      "title": "cropped-1080-1920-781509_39627463521_o_29140471308_o_30549517228_o",
+      "url": "https://live.staticflickr.com/65535/46872911025_5fc3c7297c_o.png",
+      "tags": ""
+    },
+    {
+      "title": "cropped-1080-1920-781666_38731801285_o_28144064267_o_43700347084_o",
+      "url": "https://live.staticflickr.com/65535/32845785087_504e50b797_o.jpg",
+      "tags": ""
+    },
+    {
+      "title": "cropped-1080-1920-781666-1_38920150584_o_29140470138_o_43509426445_o",
+      "url": "https://live.staticflickr.com/65535/46872910605_ae3fea192e_o.jpg",
+      "tags": "blue"
+    },
+    {
+      "title": "cropped-1080-1920-798758_39627461821_o_28144062357_o_30549516808_o",
+      "url": "https://live.staticflickr.com/65535/47000058614_b8798071e5_o.png",
+      "tags": ""
+    },
+    {
+      "title": "cropped-1080-1920-798839_39627461431_o_29140468168_o_30549516298_o",
+      "url": "https://live.staticflickr.com/65535/46872910115_63d4fc8d9d_o.jpg",
+      "tags": ""
+    },
+    {
+      "title": "cropped-1080-1920-801352_38919323784_o_28144058067_o_43509425605_o",
+      "url": "https://live.staticflickr.com/65535/47000058494_3df4a60620_o.jpg",
+      "tags": ""
+    },
+    {
+      "title": "cropped-1080-1920-806809_39627459311_o_29140467038_o_43509425285_o",
+      "url": "https://live.staticflickr.com/65535/47000058444_ea67cbd51d_o.jpg",
+      "tags": ""
+    },
+    {
+      "title": "cropped-1080-1920-833326_25754125778_o_41202666150_o_43509424905_o",
+      "url": "https://live.staticflickr.com/65535/46872909875_c26defd4f5_o.jpg",
+      "tags": ""
+    },
+    {
+      "title": "cropped-1080-1920-837850_38919322374_o_29140466738_o_43509424565_o",
+      "url": "https://live.staticflickr.com/65535/47000058304_5ae12dda3a_o.jpg",
+      "tags": ""
+    },
+    {
+      "title": "cropped-1080-1920-839969_38919321664_o_42294292124_o_43509424355_o",
+      "url": "https://live.staticflickr.com/65535/46872909675_75026c9887_o.jpg",
+      "tags": ""
+    },
+    {
+      "title": "cropped-1080-1920-848437_27850067269_o_29140466308_o_30549514718_o",
+      "url": "https://live.staticflickr.com/65535/47000058134_eb14828dda_o.jpg",
+      "tags": ""
+    },
+    {
+      "title": "cropped-1080-1920-849498_38919321254_o_28144056687_o_30549514518_o",
+      "url": "https://live.staticflickr.com/65535/46872909575_cc55fd3fd4_o.jpg",
+      "tags": ""
+    },
+    {
+      "title": "cropped-1080-1920-850726_27850066549_o_29140466038_o_30549514238_o",
+      "url": "https://live.staticflickr.com/65535/47737014822_2a5996e3da_o.jpg",
+      "tags": ""
+    },
+    {
+      "title": "cropped-1080-1920-853477_38919320704_o_42963116672_o_30549513988_o",
+      "url": "https://live.staticflickr.com/65535/47000057724_8fdfd05623_o.jpg",
+      "tags": ""
+    },
+    {
+      "title": "cropped-1080-1920-856219_27850065559_o_29140465798_o_30549513608_o",
+      "url": "https://live.staticflickr.com/65535/46872909225_5804eb8aa3_o.jpg",
       "tags": ""
     }
   ]
