@@ -1,26 +1,11 @@
 {
-  "ver": "1.0.5",
+  "ver": "1.0.6",
   "ads": {
     "banner_disable": false,
     "inters_disable": false,
     "inters_limit": "15"
   },
   "photos": [
-    {
-      "title": "1_48e105e6e6de2acc6a849a33b3ccf0dc--dragonball-z_goku_minimal_42943238882_o_30468215838_o",
-      "url": "https://live.staticflickr.com/65535/46872953855_8ca0ba445e_o.jpg",
-      "tags": "gokudragon ball_minimal"
-    },
-    {
-      "title": "1_911344_1_42992767391_o_30468215468_o",
-      "url": "https://live.staticflickr.com/65535/47000104594_8aeeaef619_o.jpg",
-      "tags": "gokufamily minimal"
-    },
-    {
-      "title": "1_1562494_1_42992767091_o_43429667945_o",
-      "url": "https://live.staticflickr.com/65535/46872953505_3ddbb2bfd3_o.jpg",
-      "tags": "goku super_saiya"
-    },
     {
       "title": "1_30778606ef6a05066cf9231d21f5dd89_goku_black_minimal_42992767011_o_44334913331_o",
       "url": "https://live.staticflickr.com/65535/47000104234_e2fcdf65d1_o.jpg",
@@ -42,11 +27,6 @@
       "tags": "ultra_goku"
     },
     {
-      "title": "1_cropped-1080-1920-729363_38731801585_o_black-goku-dragon-ball-super_42992766281_o_44334913051_o",
-      "url": "https://live.staticflickr.com/65535/47737046942_f1927b546b_o.jpg",
-      "tags": "ultra_goku"
-    },
-    {
       "title": "1_cropped-1080-1920-828919_25754126208_o_42943238132_o_43429667355_o",
       "url": "https://live.staticflickr.com/65535/47737046732_735c1dacf3_o.jpg",
       "tags": "vetage super_saiya"
@@ -57,11 +37,6 @@
       "tags": "goku_instinst"
     },
     {
-      "title": "1_cropped-1080-1920-876765_27848152709_o_jiren_28124700257_o_43429667235_o",
-      "url": "https://live.staticflickr.com/65535/46872950675_362f33b7e4_o.jpg",
-      "tags": "jren"
-    },
-    {
       "title": "1_goku_back_42992767641_o_44334912721_o",
       "url": "https://live.staticflickr.com/65535/32845819907_5944918710_o.jpg",
       "tags": "blue_goku"
@@ -70,11 +45,6 @@
       "title": "1_goku_minimal_28124700147_o_44334912651_o",
       "url": "https://live.staticflickr.com/65535/32845819547_00171bc671_o.jpg",
       "tags": "minimal goku"
-    },
-    {
-      "title": "1_jiren_by_saodvd-dbp3bx0_39628251521_o_42943237782_o_43429667155_o",
-      "url": "https://live.staticflickr.com/65535/46872950015_dfd90c7c3e_o.jpg",
-      "tags": "jren"
     },
     {
       "title": "1_kyabe_ssj_by_hiroshiianabamodder-dbqtos1_38731796785_o_28124699967_o_30468214188_o",
@@ -284,46 +254,6 @@
     {
       "title": "cropped-1080-1920-781509_39627463521_o_29140471308_o_30549517228_o",
       "url": "https://live.staticflickr.com/65535/46872911025_5fc3c7297c_o.png",
-      "tags": ""
-    },
-    {
-      "title": "cropped-1080-1920-781666_38731801285_o_28144064267_o_43700347084_o",
-      "url": "https://live.staticflickr.com/65535/32845785087_504e50b797_o.jpg",
-      "tags": ""
-    },
-    {
-      "title": "cropped-1080-1920-781666-1_38920150584_o_29140470138_o_43509426445_o",
-      "url": "https://live.staticflickr.com/65535/46872910605_ae3fea192e_o.jpg",
-      "tags": "blue"
-    },
-    {
-      "title": "cropped-1080-1920-798758_39627461821_o_28144062357_o_30549516808_o",
-      "url": "https://live.staticflickr.com/65535/47000058614_b8798071e5_o.png",
-      "tags": ""
-    },
-    {
-      "title": "cropped-1080-1920-798839_39627461431_o_29140468168_o_30549516298_o",
-      "url": "https://live.staticflickr.com/65535/46872910115_63d4fc8d9d_o.jpg",
-      "tags": ""
-    },
-    {
-      "title": "cropped-1080-1920-801352_38919323784_o_28144058067_o_43509425605_o",
-      "url": "https://live.staticflickr.com/65535/47000058494_3df4a60620_o.jpg",
-      "tags": ""
-    },
-    {
-      "title": "cropped-1080-1920-806809_39627459311_o_29140467038_o_43509425285_o",
-      "url": "https://live.staticflickr.com/65535/47000058444_ea67cbd51d_o.jpg",
-      "tags": ""
-    },
-    {
-      "title": "cropped-1080-1920-833326_25754125778_o_41202666150_o_43509424905_o",
-      "url": "https://live.staticflickr.com/65535/46872909875_c26defd4f5_o.jpg",
-      "tags": ""
-    },
-    {
-      "title": "cropped-1080-1920-837850_38919322374_o_29140466738_o_43509424565_o",
-      "url": "https://live.staticflickr.com/65535/47000058304_5ae12dda3a_o.jpg",
       "tags": ""
     },
     {
