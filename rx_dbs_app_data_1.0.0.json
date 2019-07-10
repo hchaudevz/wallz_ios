@@ -1,8 +1,8 @@
 {
-  "ver": "1.0.0",
+  "ver": "1.0.1",
   "ads": {
-    "banner_disable": false,
-    "inters_disable": false,
+    "banner_disable": true,
+    "inters_disable": true,
     "inters_limit": "15"
   },
   "photos": [
@@ -10,16 +10,6 @@
       "title": "1_48e105e6e6de2acc6a849a33b3ccf0dc--dragonball-z_goku_minimal_42943238882_o_30468215838_o",
       "url": "https://live.staticflickr.com/65535/46872953855_8ca0ba445e_o.jpg",
       "tags": "goku minimal"
-    },
-    {
-      "title": "1_911344_1_42992767391_o_30468215468_o",
-      "url": "https://live.staticflickr.com/65535/47000104594_8aeeaef619_o.jpg",
-      "tags": "vegito goku vegeta"
-    },
-    {
-      "title": "1_1562494_1_42992767091_o_43429667945_o",
-      "url": "https://live.staticflickr.com/65535/46872953505_3ddbb2bfd3_o.jpg",
-      "tags": "goku vegeta vegito"
     },
     {
       "title": "1_30778606ef6a05066cf9231d21f5dd89_goku_black_minimal_42992767011_o_44334913331_o",
@@ -47,16 +37,6 @@
       "tags": "goku minimal"
     },
     {
-      "title": "1_cropped-1080-1920-729363_38731801585_o_black-goku-dragon-ball-super_42992766281_o_44334913051_o",
-      "url": "https://live.staticflickr.com/65535/47737046942_f1927b546b_o.jpg",
-      "tags": "black_goku"
-    },
-    {
-      "title": "1_cropped-1080-1920-828919_25754126208_o_42943238132_o_43429667355_o",
-      "url": "https://live.staticflickr.com/65535/47737046732_735c1dacf3_o.jpg",
-      "tags": "vegeta super_saiyan"
-    },
-    {
       "title": "1_wallpapersdencom_goku-dragon-ball-super-art_1920x1080_42943236542_o_44368445472_o",
       "url": "https://live.staticflickr.com/65535/40823017533_c3f11e3411_o.jpg",
       "tags": "ultra_instinct goku minimal"
@@ -65,16 +45,6 @@
       "title": "1_cropped-1080-1920-851512_24757250727_oblack-goku-dragon-ball-super_28124700327_o_44334912781_o",
       "url": "https://live.staticflickr.com/65535/32845820467_c003c1072c_o.jpg",
       "tags": "ultra_instinct goku"
-    },
-    {
-      "title": "1_cropped-1080-1920-876765_27848152709_o_jiren_28124700257_o_43429667235_o",
-      "url": "https://live.staticflickr.com/65535/46872950675_362f33b7e4_o.jpg",
-      "tags": "jiren"
-    },
-    {
-      "title": "1_goku_back_42992767641_o_44334912721_o",
-      "url": "https://live.staticflickr.com/65535/32845819907_5944918710_o.jpg",
-      "tags": "vegito goku vegeta"
     },
     {
       "title": "1_goku_minimal_28124700147_o_44334912651_o",
@@ -152,9 +122,9 @@
       "tags": "super_saiyan"
     },
     {
-      "title": "m-14652_dragon_ball_z_33947827754_cute_29793761548_o",
-      "url": "https://live.staticflickr.com/65535/48132879676_1a7ba2e833_o.jpg",
-      "tags": "goku minimal"
+      "title": "cropped-1080-1920-798758_39627461821_o_28144062357_o_30549516808_o",
+      "url": "https://live.staticflickr.com/65535/47000058614_b8798071e5_o.png",
+      "tags": "all"
     },
     {
       "title": "m-57794be8a33303e29861e3f6c7db7587_34790351005_minimalist_29793761268_o",
@@ -169,6 +139,11 @@
     {
       "title": "m-dragon_ball_chibi_son_goku_by_lestath87-d61wq6a_33947823714_o_28775509937_o",
       "url": "https://live.staticflickr.com/65535/48132971737_482318f61c_o.jpg",
+      "tags": "goku minimal"
+    },
+    {
+      "title": "m-14652_dragon_ball_z_33947827754_cute_29793761548_o",
+      "url": "https://live.staticflickr.com/65535/48132879676_1a7ba2e833_o.jpg",
       "tags": "goku minimal"
     },
     {
@@ -202,14 +177,14 @@
       "tags": "goku minimal"
     },
     {
-      "title": "minimal_24759120277_gohan_42294272884_o_43509410845_o",
-      "url": "https://live.staticflickr.com/65535/47000052494_c0f5c04176_o.jpg",
-      "tags": "gohan"
+      "title": "goku_cool_wallpaper_by_arjundarkangel-daswqny_24759121497_o_29140460958_o_43509415005_o",
+      "url": "https://live.staticflickr.com/65535/46872906235_bf6457140c_o.jpg",
+      "tags": "all"
     },
     {
-      "title": "minimal_25754126858_o_42294272554_o_43509410655_o",
-      "url": "https://live.staticflickr.com/65535/33912299198_ae4fbc1297_o.jpg",
-      "tags": "goku vegeta"
+      "title": "minimal-goku_24757251057_o_42294269904_o_43509410015_o",
+      "url": "https://live.staticflickr.com/65535/33912298788_0460d3062c_o.jpg",
+      "tags": "all"
     }
   ]
 }
