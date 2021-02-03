@@ -1,9 +1,9 @@
 {
-  "ver": "1.0.3",
+  "ver": "1.0.4",
   "ads": {
     "banner_disable": false,
     "inters_disable": false,
-    "inters_limit": "15"
+    "inters_limit": "16"
   },
   "photos": [
     {
