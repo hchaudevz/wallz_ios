@@ -1,8 +1,8 @@
 {
-  "ver": "1.0.4",
+  "ver": "1.0.5",
   "ads": {
     "banner_disable": false,
-    "inters_disable": false,
+    "inters_disable": true,
     "inters_limit": "16"
   },
   "photos": [
