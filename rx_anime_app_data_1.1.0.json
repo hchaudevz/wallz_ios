@@ -1,11 +1,11 @@
 {
-  "ver": "1.1.3",
+  "ver": "1.1.4",
   "ads": {
     "banner_disable": false,
     "inters_disable": false,
     "inters_limit": "20"
   },
-  "locked_filters": ["Bloom", "Mono Chrome", "Posterize"],
+  "locked_filters": ["Bloom", "Mono Chrome", "Posterize", "Chrome"],
   "photos": [
     {
       "title": "my_hero_academy",
@@ -3111,6 +3111,236 @@
       "title": "black_clover",
       "url": "https://i.postimg.cc/wMCDBN22/Black-Clover-Wallpapers-For-Mobile-wp3613812-middle.jpg",
       "tags": "black_clover"
+    },
+    {
+      "title": "my_hero_academy",
+      "url": "https://i.postimg.cc/DfsHFgM6/6344137a3ae6add1436ade2dd88e2dff-30742524848-o.jpg",
+      "tags": "my_hero_academy"
+    },
+    {
+      "title": "my_hero_academy",
+      "url": "https://i.postimg.cc/qMNr8nbC/674246-35517021213-o-30363305268-o.jpg",
+      "tags": "my_hero_academy"
+    },
+    {
+      "title": "my_hero_academy",
+      "url": "https://i.postimg.cc/66jw2z0X/685520-35517021433-o-44182144072-o.jpg",
+      "tags": "my_hero_academy"
+    },
+    {
+      "title": "my_hero_academy",
+      "url": "https://i.postimg.cc/dVdKfFKs/686659-35517020953-o-30363305198-o.jpg",
+      "tags": "my_hero_academy"
+    },
+    {
+      "title": "my_hero_academy",
+      "url": "https://i.postimg.cc/QM3rGzXp/687779-35489870004-o-44182143662-o.jpg",
+      "tags": "my_hero_academy"
+    },
+    {
+      "title": "my_hero_academy",
+      "url": "https://i.postimg.cc/BvBfqC6R/704225-43704144905-o.jpg",
+      "tags": "my_hero_academy"
+    },
+    {
+      "title": "my_hero_academy",
+      "url": "https://i.postimg.cc/B6Z9t1Pb/704227-44563521622-o.jpg",
+      "tags": "my_hero_academy"
+    },
+    {
+      "title": "my_hero_academy",
+      "url": "https://i.postimg.cc/fLH4dTYK/706224-44563521392-o.jpg",
+      "tags": "my_hero_academy"
+    },
+    {
+      "title": "my_hero_academy",
+      "url": "https://i.postimg.cc/8CjXYBvh/7244411aee2288b78f50c1e0e9997ac0-43704129745-o.jpg",
+      "tags": "my_hero_academy"
+    },
+    {
+      "title": "my_hero_academy",
+      "url": "https://i.postimg.cc/mkhvyfwG/792991-35517020753-o-44182143562-o.jpg",
+      "tags": "my_hero_academy"
+    },
+    {
+      "title": "my_hero_academy",
+      "url": "https://i.postimg.cc/rFR6dTs1/809215-43704143955-o.jpg",
+      "tags": "my_hero_academy"
+    },
+    {
+      "title": "my_hero_academy",
+      "url": "https://i.postimg.cc/dVGzB98D/809217-43704143625-o.jpg",
+      "tags": "my_hero_academy"
+    },
+    {
+      "title": "my_hero_academy",
+      "url": "https://i.postimg.cc/SR5wZTTY/809232-35517020673-o-30363304938-o.jpg",
+      "tags": "my_hero_academy"
+    },
+    {
+      "title": "my_hero_academy",
+      "url": "https://i.postimg.cc/xdYBFbR5/809250-43704142915-o.jpg",
+      "tags": "my_hero_academy"
+    },
+    {
+      "title": "my_hero_academy",
+      "url": "https://i.postimg.cc/sfNdDxjf/809288-35517020503-o-30363304828-o.jpg",
+      "tags": "my_hero_academy"
+    },
+    {
+      "title": "my_hero_academy",
+      "url": "https://i.postimg.cc/X7RRdPBT/809308-35517020393-o-42423051490-o.jpg",
+      "tags": "my_hero_academy"
+    },
+    {
+      "title": "my_hero_academy",
+      "url": "https://i.postimg.cc/4yK0hvff/809337-43704140355-o.jpg",
+      "tags": "my_hero_academy"
+    },
+    {
+      "title": "my_hero_academy",
+      "url": "https://i.postimg.cc/d1NX1NKN/809346-43704140145-o.jpg",
+      "tags": "my_hero_academy"
+    },
+    {
+      "title": "my_hero_academy",
+      "url": "https://i.postimg.cc/cJmPq4kS/815297-43704139995-o.jpg",
+      "tags": "my_hero_academy"
+    },
+    {
+      "title": "my_hero_academy",
+      "url": "https://i.postimg.cc/G2mVbw6s/815314-43704139875-o.jpg",
+      "tags": "my_hero_academy"
+    },
+    {
+      "title": "my_hero_academy",
+      "url": "https://i.postimg.cc/fWFpQPCJ/817883-43704139715-o.jpg",
+      "tags": "my_hero_academy"
+    },
+    {
+      "title": "my_hero_academy",
+      "url": "https://i.postimg.cc/j2GF6W2z/819836-43704139485-o.jpg",
+      "tags": "my_hero_academy"
+    },
+    {
+      "title": "my_hero_academy",
+      "url": "https://i.postimg.cc/Fs69qGdZ/81fc43438b0bc6a57fb4f01e2388f6de-43704146595-o.jpg",
+      "tags": "my_hero_academy"
+    },
+    {
+      "title": "my_hero_academy",
+      "url": "https://i.postimg.cc/LhKxYrQD/825012-43704139335-o.jpg",
+      "tags": "my_hero_academy"
+    },
+    {
+      "title": "my_hero_academy",
+      "url": "https://i.postimg.cc/wMsWB623/853978-43704139125-o.jpg",
+      "tags": "my_hero_academy"
+    },
+    {
+      "title": "my_hero_academy",
+      "url": "https://i.postimg.cc/j51gKWzG/856438-43704138875-o.jpg",
+      "tags": "my_hero_academy"
+    },
+    {
+      "title": "my_hero_academy",
+      "url": "https://i.postimg.cc/L8kbf8p1/856446-35517020333-o-44182143352-o.jpg",
+      "tags": "my_hero_academy"
+    },
+    {
+      "title": "my_hero_academy",
+      "url": "https://i.postimg.cc/5NCG4mKp/856524-43704138565-o.jpg",
+      "tags": "my_hero_academy"
+    },
+    {
+      "title": "my_hero_academy",
+      "url": "https://i.postimg.cc/KckFTBs3/856547-43704138535-o.jpg",
+      "tags": "my_hero_academy"
+    },
+    {
+      "title": "my_hero_academy",
+      "url": "https://i.postimg.cc/Z5ZhXgY6/856548-43704137995-o.jpg",
+      "tags": "my_hero_academy"
+    },
+    {
+      "title": "my_hero_academy",
+      "url": "https://i.postimg.cc/mr8pXphZ/856577-35489869474-o-42423051200-o.jpg",
+      "tags": "my_hero_academy"
+    },
+    {
+      "title": "my_hero_academy",
+      "url": "https://i.postimg.cc/VkRcwR5p/856638-43704137075-o.jpg",
+      "tags": "my_hero_academy"
+    },
+    {
+      "title": "my_hero_academy",
+      "url": "https://i.postimg.cc/DzpkJwrc/856651-43704136305-o.jpg",
+      "tags": "my_hero_academy"
+    },
+    {
+      "title": "my_hero_academy",
+      "url": "https://i.postimg.cc/Y257z0Jn/856995-43704132775-o.jpg",
+      "tags": "my_hero_academy"
+    },
+    {
+      "title": "my_hero_academy",
+      "url": "https://i.postimg.cc/FKHXHLLR/862663-43704132555-o.jpg",
+      "tags": "my_hero_academy"
+    },
+    {
+      "title": "my_hero_academy",
+      "url": "https://i.postimg.cc/SsHBd1t2/863071-43704132415-o.jpg",
+      "tags": "my_hero_academy"
+    },
+    {
+      "title": "my_hero_academy",
+      "url": "https://i.postimg.cc/FzBQMsRR/86f1135a5ea1967d7d8243702501ac63-43704146505-o.jpg",
+      "tags": "my_hero_academy"
+    },
+    {
+      "title": "my_hero_academy",
+      "url": "https://i.postimg.cc/kG8kpNkj/874880-43704132145-o.jpg",
+      "tags": "my_hero_academy"
+    },
+    {
+      "title": "my_hero_academy",
+      "url": "https://i.postimg.cc/qRtf8HQH/881622-43704131915-o.jpg",
+      "tags": "my_hero_academy"
+    },
+    {
+      "title": "my_hero_academy",
+      "url": "https://i.postimg.cc/yN476dT3/907c5fcac0bbf7b3699476ca818ee9a4-43704145625-o.jpg",
+      "tags": "my_hero_academy"
+    },
+    {
+      "title": "my_hero_academy",
+      "url": "https://i.postimg.cc/d3m5CWMK/a1f63cd1d6a072ca2fa2927f0a0f3ab4-30742523538-o.jpg",
+      "tags": "my_hero_academy"
+    },
+    {
+      "title": "my_hero_academy",
+      "url": "https://i.postimg.cc/vTdPDJNz/a29b8f34b936066c0ee4ab6881a96ae5-d9qwa71-43704128365-o.jpg",
+      "tags": "my_hero_academy"
+    },
+    {
+      "title": "my_hero_academy",
+      "url": "https://i.postimg.cc/zGdPpPyz/bakugou-katsuki-boku-no-hero-academia-by-greenmapple17-da745s1.jpg",
+      "tags": "my_hero_academy"
+    },
+    {
+      "title": "my_hero_academy",
+      "url": "https://i.postimg.cc/HWQZFLrP/bbe42e3af1358949be1fbb93b0fb8f5f-30742522858-o.jpg",
+      "tags": "my_hero_academy"
+    },
+    {
+      "title": "my_hero_academy",
+      "url": "https://i.postimg.cc/J4xT4dcN/best-boku-no-hero-academia-desktop-wallpaper-35517020073-o-30363.jpg",
+      "tags": "my_hero_academy"
+    },
+    {
+      "title": "my_hero_academy",
+      "url": "https://i.postimg.cc/PqgyRGTj/bkawvrj-43704127755-o.jpg",
+      "tags": "my_hero_academy"
     }
   ]
 }
