@@ -1,25 +1,15 @@
 {
-  "ver": "1.9.0",
+  "ver": "1.9.1",
   "ads": {
     "banner_disable": false,
     "inters_disable": false,
-    "inters_limit": "15"
+    "inters_limit": "20"
   },
   "locked_filters": ["Bloom", "Mono Chrome", "Posterize", "Chrome"],
   "photos": [
     {
-      "title": "1_7bixl8_34306270224_ace_44322981671_o",
-      "url": "https://live.staticflickr.com/65535/48552131462_a9d905df6a_o.jpg",
-      "tags": "ace"
-    },
-    {
       "title": "1_63160f0e643e96569acd9eea5d0a88fe_35111402276_luffy_minimal_30456035478_o",
       "url": "https://live.staticflickr.com/65535/48552131447_cbe4de2cb1_o.jpg",
-      "tags": "luffy"
-    },
-    {
-      "title": "1_319142_34306269984_luffy_44322981321_o",
-      "url": "https://live.staticflickr.com/65535/48552131197_c15ca028e4_o.jpg",
       "tags": "luffy"
     },
     {
@@ -31,11 +21,6 @@
       "title": "1_666876_34306269764_luffy_43191044121_o_30456034748_o",
       "url": "https://live.staticflickr.com/65535/48552130512_7be35fb10f_o.jpg",
       "tags": "luffy"
-    },
-    {
-      "title": "1_670606_35111380886_o_43191044001_o_44322980431_o",
-      "url": "https://live.staticflickr.com/65535/48552130257_7bb63985ec_o.jpg",
-      "tags": "nami"
     },
     {
       "title": "1_675158_35111380566_luffy_fight_43191043931_o_44322980161_o",
@@ -73,11 +58,6 @@
       "tags": "luffy"
     },
     {
-      "title": "8d08b8f6b3417a2c0b372aed8194f63_34345890723_luffy-ace_43181501482_o_42586880440_o",
-      "url": "https://live.staticflickr.com/65535/48551979586_9839e25be1_o.jpg",
-      "tags": ""
-    },
-    {
       "title": "9e6ca913657517562767bd43044-franky-minimalist_28527128457_o_42586880190_o",
       "url": "https://live.staticflickr.com/65535/48551979416_88bc6f837d_o.jpg",
       "tags": "minimal"
@@ -86,11 +66,6 @@
       "title": "21fdf913657517562766e72efab-usopp-minimalist_28527128537_o_42586879940_o",
       "url": "https://live.staticflickr.com/65535/48552128117_28e34bac11_o.jpg",
       "tags": "minimal"
-    },
-    {
-      "title": "33f4208f57d2bb6fc74cc90d285266_35151624195_luffy_43181501672_o_42586879660_o",
-      "url": "https://live.staticflickr.com/65535/48552127967_1fda542e9c_o.jpg",
-      "tags": "ace"
     },
     {
       "title": "47e38975fddb6f4fbb09cccf91bb3431_34310986474_cute-icon_43231523091_o_42586879380_o",
@@ -123,16 +98,6 @@
       "tags": ""
     },
     {
-      "title": "31120_whitebeard",
-      "url": "https://live.staticflickr.com/65535/48551978011_033692744c_o.jpg",
-      "tags": "whitebread"
-    },
-    {
-      "title": "37462alsh3er_34990983972_zoro_43231522471_o_30527870778_o",
-      "url": "https://live.staticflickr.com/65535/48552126607_807710a69c_o.jpg",
-      "tags": ""
-    },
-    {
       "title": "54708_zoro-2-minimalist_43396321261_o_30527870658_o",
       "url": "https://live.staticflickr.com/65535/48552126547_2fd0126dfb_o.jpg",
       "tags": "minimal"
@@ -158,24 +123,9 @@
       "tags": "luffy"
     },
     {
-      "title": "268027_24482481417_luffy_43231521661_o_42586875690_o",
-      "url": "https://live.staticflickr.com/65535/48552125552_8b72b4bb33_o.jpg",
-      "tags": "luffy"
-    },
-    {
       "title": "268670_zoro-minimalist_43396321841_o_42586875480_o",
       "url": "https://live.staticflickr.com/65535/48552125417_349776c884_o.jpg",
       "tags": "zoro minimal"
-    },
-    {
-      "title": "311022_34310986004_luffy-ace_42512618904_o_42586875160_o",
-      "url": "https://live.staticflickr.com/65535/48551976201_f30899b782_o.jpg",
-      "tags": "ace"
-    },
-    {
-      "title": "334344_one_piece-750x1334_38638582284_luffy_43231521221_o_44346294312_o",
-      "url": "https://live.staticflickr.com/65535/48551976051_96540a7179_o.jpg",
-      "tags": "luffy"
     },
     {
       "title": "0334874f9a6b70d5dd9ab525c81d6342-minimalist-zoro_28527130057_o_44346254532_o",
