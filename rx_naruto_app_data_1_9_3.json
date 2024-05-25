@@ -1,0 +1,276 @@
+{
+  "ver": "1.9.3",
+  "ads": {
+    "banner_disable": false,
+    "inters_disable": false,
+    "inters_limit": "30"
+  },
+  "locked_filters": [
+    "Bloom",
+    "Mono Chrome",
+    "Posterize",
+    "Chrome"
+  ],
+  "photos": [
+    {
+      "title": "simple",
+      "url": "https://i.postimg.cc/W1w8BnM2/wp10316611-middle.jpg",
+      "tags": "simple"
+    },
+    {
+      "title": "simple",
+      "url": "https://i.postimg.cc/sfGcjypH/wp10863273-middle.jpg",
+      "tags": "simple"
+    },
+    {
+      "title": "simple",
+      "url": "https://i.postimg.cc/dVsryKyY/wp11224055-middle.jpg",
+      "tags": "simple"
+    },
+    {
+      "title": "simple",
+      "url": "https://i.postimg.cc/3rGXM1TP/wp11877747-middle.jpg",
+      "tags": "simple"
+    },
+    {
+      "title": "simple",
+      "url": "https://i.postimg.cc/15xK4TBm/wp12143166-middle.jpg",
+      "tags": "simple"
+    },
+    {
+      "title": "simple",
+      "url": "https://i.postimg.cc/wTJ0VHMR/wp12442164-middle.jpg",
+      "tags": "simple"
+    },
+    {
+      "title": "simple",
+      "url": "https://i.postimg.cc/Fz03jrp9/wp12543398-middle.jpg",
+      "tags": "simple"
+    },
+    {
+      "title": "simple",
+      "url": "https://i.postimg.cc/GhJvtp9K/wp12892101-middle.jpg",
+      "tags": "simple"
+    },
+    {
+      "title": "simple",
+      "url": "https://i.postimg.cc/MGr7wrX8/wp12989768-middle.jpg",
+      "tags": "simple"
+    },
+    {
+      "title": "simple",
+      "url": "https://i.postimg.cc/N0GDBH4R/wp12989850-middle.jpg",
+      "tags": "simple"
+    },
+    {
+      "title": "simple",
+      "url": "https://i.postimg.cc/7hzMmMHr/wp12989952-middle.jpg",
+      "tags": "simple"
+    },
+    {
+      "title": "simple",
+      "url": "https://i.postimg.cc/8z4dKCSc/wp12989986-middle.png",
+      "tags": "simple"
+    },
+    {
+      "title": "simple",
+      "url": "https://i.postimg.cc/PqqWBkX4/wp12989995-middle.jpg",
+      "tags": "simple"
+    },
+    {
+      "title": "simple",
+      "url": "https://i.postimg.cc/qRSxsZdG/wp3085087-middle.jpg",
+      "tags": "simple"
+    },
+    {
+      "title": "simple",
+      "url": "https://i.postimg.cc/GpMQ2m7V/wp4063163-middle.jpg",
+      "tags": "simple"
+    },
+    {
+      "title": "simple",
+      "url": "https://i.postimg.cc/xTK3mRpK/wp5197183-middle.jpg",
+      "tags": "simple"
+    },
+    {
+      "title": "simple",
+      "url": "https://i.postimg.cc/4dDp77zL/wp5679143-middle.jpg",
+      "tags": "simple"
+    },
+    {
+      "title": "simple",
+      "url": "https://i.postimg.cc/X70wn5NX/wp6854074-middle.jpg",
+      "tags": "simple"
+    },
+    {
+      "title": "simple",
+      "url": "https://i.postimg.cc/xCJK1ybN/wp8320774-middle.jpg",
+      "tags": "simple"
+    },
+    {
+      "title": "simple",
+      "url": "https://i.postimg.cc/0yPd0whh/wp8337549-middle.jpg",
+      "tags": "simple"
+    },
+    {
+      "title": "simple",
+      "url": "https://i.postimg.cc/ydkTSC2d/wp8611692-middle.jpg",
+      "tags": "simple"
+    },
+    {
+      "title": "simple",
+      "url": "https://i.postimg.cc/qvTQDY6b/wp9113683-middle.jpg",
+      "tags": "simple"
+    },
+    {
+      "title": "oled",
+      "url": "https://i.postimg.cc/MpLHpk0t/wp10206813-middle.jpg",
+      "tags": "oled"
+    },
+    {
+      "title": "oled",
+      "url": "https://i.postimg.cc/ZR4STjQV/wp12747128-middle.jpg",
+      "tags": "oled"
+    },
+    {
+      "title": "oled",
+      "url": "https://i.postimg.cc/FRpQ135m/wp12833485-middle.jpg",
+      "tags": "oled"
+    },
+    {
+      "title": "oled",
+      "url": "https://i.postimg.cc/MHGJBHqB/wp13481313-middle.jpg",
+      "tags": "oled"
+    },
+    {
+      "title": "oled",
+      "url": "https://i.postimg.cc/sfnrrY44/wp13867664-middle.jpg",
+      "tags": "oled"
+    },
+    {
+      "title": "oled",
+      "url": "https://i.postimg.cc/Dy8KySCk/wp13867802-oled-4k-black-wallpapers-middle.jpg",
+      "tags": "oled"
+    },
+    {
+      "title": "oled",
+      "url": "https://i.postimg.cc/tgdKmWgP/wp13867826-oled-4k-black-wallpapers-middle.jpg",
+      "tags": "oled"
+    },
+    {
+      "title": "oled",
+      "url": "https://i.postimg.cc/bwnckKcm/wp13867880-middle.png",
+      "tags": "oled"
+    },
+    {
+      "title": "oled",
+      "url": "https://i.postimg.cc/FKQtZDhN/wp13867882-middle.jpg",
+      "tags": "oled"
+    },
+    {
+      "title": "oled",
+      "url": "https://i.postimg.cc/tghbQ8Bs/wp4953993-oled-pattern-wallpapers-middle.jpg",
+      "tags": "oled"
+    },
+    {
+      "title": "oled",
+      "url": "https://i.postimg.cc/ZKV0XvCG/wp5187881-middle.jpg",
+      "tags": "oled"
+    },
+    {
+      "title": "oled",
+      "url": "https://i.postimg.cc/pr1bJvL6/wp7328795-red-amoled-4k-wallpapers-middle.jpg",
+      "tags": "oled"
+    },
+    {
+      "title": "world map",
+      "url": "https://i.postimg.cc/Jh8gJ0Qh/wp10561182-bottom.jpg",
+      "tags": "world map"
+    },
+    {
+      "title": "world map",
+      "url": "https://i.postimg.cc/G2h57fVw/wp10561182-middle.jpg",
+      "tags": "world map"
+    },
+    {
+      "title": "world map",
+      "url": "https://i.postimg.cc/bJCFKTfG/wp10561182-top.jpg",
+      "tags": "world map"
+    },
+    {
+      "title": "world map",
+      "url": "https://i.postimg.cc/0NC4Cvt0/wp12257203-bottom.jpg",
+      "tags": "world map"
+    },
+    {
+      "title": "world map",
+      "url": "https://i.postimg.cc/cCv5ZndF/wp12257203-middle.jpg",
+      "tags": "world map"
+    },
+    {
+      "title": "world map",
+      "url": "https://i.postimg.cc/KcWHfJ5w/wp12257203-top.jpg",
+      "tags": "world map"
+    },
+    {
+      "title": "world map",
+      "url": "https://i.postimg.cc/qqWD7vR4/wp12955639-bottom.jpg",
+      "tags": "world map"
+    },
+    {
+      "title": "world map",
+      "url": "https://i.postimg.cc/VkQHQvpF/wp12955639-middle.jpg",
+      "tags": "world map"
+    },
+    {
+      "title": "world map",
+      "url": "https://i.postimg.cc/Pr8FRY3x/wp12955639-top.jpg",
+      "tags": "world map"
+    },
+    {
+      "title": "world map",
+      "url": "https://i.postimg.cc/P5WVthkn/wp13340669-bottom.jpg",
+      "tags": "world map"
+    },
+    {
+      "title": "world map",
+      "url": "https://i.postimg.cc/TPQkD9wk/wp13340669-middle.jpg",
+      "tags": "world map"
+    },
+    {
+      "title": "world map",
+      "url": "https://i.postimg.cc/YStn0VpG/wp13340669-top.jpg",
+      "tags": "world map"
+    },
+    {
+      "title": "world map",
+      "url": "https://i.postimg.cc/yddLXZ37/wp13340673-bottom.jpg",
+      "tags": "world map"
+    },
+    {
+      "title": "world map",
+      "url": "https://i.postimg.cc/C1Qmvxbk/wp13340673-middle.jpg",
+      "tags": "world map"
+    },
+    {
+      "title": "world map",
+      "url": "https://i.postimg.cc/nr9TNf15/wp13340673-top.jpg",
+      "tags": "world map"
+    },
+    {
+      "title": "world map",
+      "url": "https://i.postimg.cc/ZK1XbVBp/wp9483349-bottom.jpg",
+      "tags": "world map"
+    },
+    {
+      "title": "world map",
+      "url": "https://i.postimg.cc/y8ctkcc5/wp9483349-middle.jpg",
+      "tags": "world map"
+    },
+    {
+      "title": "world map",
+      "url": "https://i.postimg.cc/MKchJhTz/wp9483349-top.jpg",
+      "tags": "world map"
+    }
+  ]
+}
