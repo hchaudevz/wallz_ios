@@ -1,16 +1,11 @@
 {
-  "ver": "1.9.3",
+  "ver": "1.9.4",
   "ads": {
     "banner_disable": false,
-    "inters_disable": false,
+    "inters_disable": true,
     "inters_limit": "30"
   },
-  "locked_filters": [
-    "Bloom",
-    "Mono Chrome",
-    "Posterize",
-    "Chrome"
-  ],
+  "locked_filters": [],
   "photos": [
     {
       "title": "simple",
